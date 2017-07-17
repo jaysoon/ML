@@ -9,4 +9,3 @@
 **测试对象**:含有200个样本的手写数字   
 **参考**: http://blog.csdn.net/zouxy09/article/details/16955347
 
-this is a test
